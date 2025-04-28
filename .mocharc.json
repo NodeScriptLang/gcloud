@@ -1,0 +1,7 @@
+{
+    "reporter": "spec",
+    "spec": "./out/**/*.test.js",
+    "require": [
+        "./register.mjs"
+    ]
+}
